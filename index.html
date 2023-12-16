@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>XML Task for MLS interview 12/18/2023</title>
+</head>
+<body>
+  <script>
+    const rssURL = 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml';
+
+    fetch(rssURL) // Fetch RSS feed
+      .then(response => response.text()) // Convert response to text
+      .then(data => {
+        const parser = new DOMParser(); // Create DOM parser
+        const xmlDoc = parser.parseFromString(data, 'text/xml'); // Parse XML
+        const items = xmlDoc.querySelectorAll('item'); // Get all items
+
+        // Blog cards are not available in the RSS feed so I will populate the first 3 cards with the first 3 items
+        items.forEach((item, index) => {
+          if (index < 3) { // Limit to populating 3 cards
+            const title = item.querySelector('title').textContent; // Get title
+            const description = item.querySelector('description').textContent; // Get description
+
+            // Update card content with fetched data
+            const card = document.querySelectorAll('.card')[index]; // Get card
+            card.querySelector('.card-title').textContent = title; // Update title
+            card.querySelector('.card-description').textContent = description; // Update description
+          }
+        });
+      })
+      .catch(error => {
+        console.log('Error fetching RSS feed:', error); // Log error
+      });
+  </script>
+
+  <div class="card">
+    <h2 class="card-title"></h2>
+    <p class="card-description"></p>
+  </div>
+
+  <div class="card">
+    <h2 class="card-title"></h2>
+    <p class="card-description"></p>
+  </div>
+
+  <div class="card">
+    <h2 class="card-title"></h2>
+    <p class="card-description"></p>
+  </div>
+  
+  <style>
+    body {
+      font-family: sans-serif;
+    }
+
+    .card {
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin: 10px;
+      padding: 10px;
+    }
+
+    .card-title {
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+
+    .card-description {
+      font-size: 1rem;
+    }
+  </style>
+
+</body>
+</html>

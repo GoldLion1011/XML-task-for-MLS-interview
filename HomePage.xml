@@ -1,0 +1,442 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+<channel>
+<title>NYT > Top Stories</title>
+<link>https://www.nytimes.com</link>
+<atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"/>
+<description/>
+<language>en-us</language>
+<copyright>Copyright 2023 The New York Times Company</copyright>
+<lastBuildDate>Sat, 16 Dec 2023 14:57:17 +0000</lastBuildDate>
+<pubDate>Sat, 16 Dec 2023 14:52:44 +0000</pubDate>
+<image>
+<title>NYT > Top Stories</title>
+<url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+<link>https://www.nytimes.com</link>
+</image>
+<item>
+<title>Israel Knew Hamas’s Money Source Years Before Oct. 7 Attacks</title>
+<link>https://www.nytimes.com/2023/12/16/world/europe/israel-hamas-money-finance-turkey-intelligence-attacks.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/world/europe/israel-hamas-money-finance-turkey-intelligence-attacks.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/world/europe/israel-hamas-money-finance-turkey-intelligence-attacks.html" rel="standout"/>
+<description>Agents worried as millions poured in. Hamas bought weapons and plotted an attack. The authorities now say the money helped lay the groundwork for the Oct. 7 assault on Israel.</description>
+<dc:creator>Jo Becker and Justin Scheck</dc:creator>
+<pubDate>Sat, 16 Dec 2023 11:49:02 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mossad</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/14/multimedia/00hamas-money-gzlt/00hamas-money-gzlt-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Tamir Kalifa for The New York Times</media:credit>
+<media:description>Running to a reinforced concrete shelter in Ashkelon, Israel, moments after a rocket siren was sounded on Oct. 7.</media:description>
+</item>
+<item>
+<title>The Debt Problem Is Enormous, and the System for Fixing It Is Broken</title>
+<link>https://www.nytimes.com/2023/12/16/business/economy/imf-world-bank-sovereign-debt.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/business/economy/imf-world-bank-sovereign-debt.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/business/economy/imf-world-bank-sovereign-debt.html" rel="standout"/>
+<description>Economists offer alternatives to financial safeguards created when the U.S. was the pre-eminent superpower and climate change wasn’t on the agenda.</description>
+<dc:creator>Patricia Cohen</dc:creator>
+<pubDate>Sat, 16 Dec 2023 12:21:02 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Developing Countries</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Bank</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gopinath, Gita</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mottley, Mia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin Guzman</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Barbados</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/13/multimedia/00global-debt-1-kbmq/00global-debt-1-kbmq-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Anita Pouchard Serra for The New York Times</media:credit>
+<media:description>Political posters in Argentina, speaking to voter worries about high inflation.</media:description>
+</item>
+<item>
+<title>Florida Sex Scandal Shakes Moms for Liberty, as Group’s Influence Wanes</title>
+<link>https://www.nytimes.com/2023/12/16/us/politics/moms-for-liberty-sex-scandal.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/us/politics/moms-for-liberty-sex-scandal.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/us/politics/moms-for-liberty-sex-scandal.html" rel="standout"/>
+<description>The conservative group led the charge on the Covid-era education battles. But scandals and losses are threatening its power.</description>
+<dc:creator>Lisa Lerer and Patricia Mazzei</dc:creator>
+<pubDate>Sat, 16 Dec 2023 10:01:57 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">School Boards</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moms for Liberty</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Youngkin, Glenn A</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sarasota County (Fla)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sarasota (Fla)</category>
+<media:content height="1801" medium="image" url="https://static01.nyt.com/images/2023/12/16/multimedia/16pol-momsforliberty-topart-jlfv/16pol-momsforliberty-topart-jlfv-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Zack Wittman for The New York Times</media:credit>
+<media:description>Bridget Ziegler, a founder of the advocacy group Moms for Liberty, during a meeting of the Sarasota County School Board in Sarasota, Fla., on Tuesday. Ms Ziegler was asked to resign her position at the meeting.</media:description>
+</item>
+<item>
+<title>On the Texas-Mexico Border, Folk Healers Modernize Their Ancient Practice</title>
+<link>https://www.nytimes.com/2023/12/16/us/texas-border-folk-healers-curanderas.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/us/texas-border-folk-healers-curanderas.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/us/texas-border-folk-healers-curanderas.html" rel="standout"/>
+<description>Known as curanderas, they carry on a tradition long revered in local Hispanic culture.</description>
+<dc:creator>Edgar Sandoval and Verónica Gabriela Cárdenas</dc:creator>
+<pubDate>Sat, 16 Dec 2023 10:01:00 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Mexican-Americans</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Complementary Medicine</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio Grande Valley (Tex)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/16/multimedia/16NAT-ATC-CURANDERAS-01-pbfz/16NAT-ATC-CURANDERAS-01-pbfz-mediumSquareAt3X.jpg" width="1800"/>
+<media:description>Sasha García monitors the candles that she is burning for a limpia, a spiritual cleanse. </media:description>
+</item>
+<item>
+<title>Ukrainian Marines on ‘Suicide Mission’ in Crossing the Dnipro River</title>
+<link>https://www.nytimes.com/2023/12/16/world/europe/ukraine-kherson-river-russia.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/world/europe/ukraine-kherson-river-russia.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/world/europe/ukraine-kherson-river-russia.html" rel="standout"/>
+<description>Soldiers frustrated by positive reports from Ukrainian officials break their silence, describing the effort as brutalizing and, ultimately, futile.</description>
+<dc:creator>Carlotta Gall, Oleksandr Chubko, Olha Konovalova and Mauricio Lima</dc:creator>
+<pubDate>Sat, 16 Dec 2023 10:33:19 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dnipro River (Ukraine)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+<media:content height="1799" medium="image" url="https://static01.nyt.com/images/2023/12/17/multimedia/17ukraine-kherson-01-qgfp/17ukraine-kherson-01-qgfp-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Mauricio Lima for The New York Times</media:credit>
+<media:description>For two months, Ukraine’s Marine Corps has been spearheading an assault across the Dnipro River in the southern region of Kherson to recapture territory from Russian troops.</media:description>
+</item>
+<item>
+<title>Matthew Perry Died of ‘Acute Effects of Ketamine,’ Autopsy Says</title>
+<link>https://www.nytimes.com/2023/12/15/arts/matthew-perry-cause-death-friends.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/15/arts/matthew-perry-cause-death-friends.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/15/arts/matthew-perry-cause-death-friends.html" rel="standout"/>
+<description>The medical examiner said drowning, coronary artery disease and the effects of an opioid also contributed to the death of the “Friends” actor, who was found in a hot tub in October.</description>
+<dc:creator>Matt Stevens and Derrick Bryson Taylor</dc:creator>
+<pubDate>Fri, 15 Dec 2023 22:57:59 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perry, Matthew</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Autopsies</category>
+<media:content height="1352" medium="image" url="https://static01.nyt.com/images/2023/12/12/arts/00xp-perrydaeth-HFO1/00xp-perrydaeth-HFO1-mediumSquareAt3X.jpg" width="1352"/>
+<media:credit>Kevin Winter/Getty Images</media:credit>
+<media:description>The coroner’s office said Matthew Perry had ketamine and the opioid buprenorphine in his system when he died.</media:description>
+</item>
+<item>
+<title>Psychedelics for Therapy: What to Know About Benefits and Risks</title>
+<link>https://www.nytimes.com/2023/02/10/well/mind/psychedelics-therapy-ketamine-mushrooms-risks.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/02/10/well/mind/psychedelics-therapy-ketamine-mushrooms-risks.html</guid>
+<atom:link href="https://www.nytimes.com/2023/02/10/well/mind/psychedelics-therapy-ketamine-mushrooms-risks.html" rel="standout"/>
+<description>While drugs like ketamine and psilocybin are largely considered safe, here’s what to know about who should be cautious.</description>
+<dc:creator>Dana G. Smith</dc:creator>
+<pubDate>Mon, 20 Feb 2023 15:55:51 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Psychedelic and Hallucinogenic Drugs</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Ketamine (Drug)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Psilocybin Mushrooms</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+<media:content height="1166" medium="image" url="https://static01.nyt.com/images/2023/02/21/well/10-WELL-PSYCHEDELICS-CONCERNS/10-WELL-PSYCHEDELICS-CONCERNS-mediumSquareAt3X.jpg" width="1166"/>
+<media:credit>Olivia Fields</media:credit>
+</item>
+<item>
+<title>Giuliani Ordered to Pay $148 Million to Election Workers in Defamation Trial</title>
+<link>https://www.nytimes.com/2023/12/15/us/politics/rudy-giuliani-defamation-trial-damages.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/15/us/politics/rudy-giuliani-defamation-trial-damages.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/15/us/politics/rudy-giuliani-defamation-trial-damages.html" rel="standout"/>
+<description>Ruby Freeman and Shaye Moss, wrongfully accused by Rudolph W. Giuliani of having tried to steal votes from Donald J. Trump in Georgia, were awarded the damages by a federal court in Washington.</description>
+<dc:creator>Eileen Sullivan</dc:creator>
+<pubDate>Sat, 16 Dec 2023 00:13:12 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Freeman, Ruby</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moss, Shaye</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/15/multimedia/15dc-rudy-jqpw/15dc-rudy-jqpw-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Anna Moneymaker/Getty Images</media:credit>
+<media:description>Rudolph W. Giuliani arriving at the Federal District Court in Washington on Friday.</media:description>
+</item>
+<item>
+<title>A Viral Dance and ‘Happiness Campaign’ Frustrates Iran’s Clerics</title>
+<link>https://www.nytimes.com/2023/12/16/world/middleeast/a-viral-dance-and-happiness-campaign-frustrates-irans-clerics.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/world/middleeast/a-viral-dance-and-happiness-campaign-frustrates-irans-clerics.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/world/middleeast/a-viral-dance-and-happiness-campaign-frustrates-irans-clerics.html" rel="standout"/>
+<description>It all started when a 70-year-old fish market stall owner nicknamed “Booghy” was grooving in public, in violation of Iranian law.</description>
+<dc:creator>Farnaz Fassihi and Leily Nikounazar</dc:creator>
+<pubDate>Sat, 16 Dec 2023 14:45:01 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Street Performers</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+</item>
+<item>
+<title>The Weekender</title>
+<link>https://www.nytimes.com/2023/12/15/nyregion/the-weekender.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/15/nyregion/the-weekender.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/15/nyregion/the-weekender.html" rel="standout"/>
+<description>How Africans are changing the French language. Also, returning to the “perfect beach” and the 23 best dishes in America this year.</description>
+<dc:creator>The New York Times</dc:creator>
+<pubDate>Fri, 15 Dec 2023 14:25:29 +0000</pubDate>
+<media:content height="1334" medium="image" url="https://static01.nyt.com/images/2023/12/16/arts/16WEEKENDER-TOP/16WEEKENDER-TOP-mediumSquareAt3X.jpg" width="1334"/>
+<media:credit>Arlette Bashizi for The New York Times, Kyler Martin, Sebastian Castrodad for The New York Times</media:credit>
+</item>
+<item>
+<title>Stand Clear of the Closing Doors</title>
+<link>https://www.nytimes.com/2023/12/16/podcasts/this-american-life-youre-welcome-new-york-times-audio.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/podcasts/this-american-life-youre-welcome-new-york-times-audio.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/podcasts/this-american-life-youre-welcome-new-york-times-audio.html" rel="standout"/>
+<description>How New York’s scramble to provide for over 150,000 newly arrived migrants is going.</description>
+<dc:creator>New York Times Audio</dc:creator>
+<pubDate>Sat, 16 Dec 2023 12:41:23 +0000</pubDate>
+<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/15/podcasts/15tal-youre-welcome-1/15tal-youre-welcome-1-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Michael M. Santiago/Getty Images</media:credit>
+</item>
+<item>
+<title>The Destruction of Gaza’s Health Care Promises Grave Consequences</title>
+<link>https://www.nytimes.com/2023/12/16/opinion/iraq-doctor-war-israel.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/opinion/iraq-doctor-war-israel.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/opinion/iraq-doctor-war-israel.html" rel="standout"/>
+<description>The destruction of Gaza’s health care infrastructure and the justifications used to defend it feel hauntingly familiar.</description>
+<dc:creator>Omar Dewachi</dc:creator>
+<pubDate>Sat, 16 Dec 2023 12:00:25 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Antibiotics</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Resistance (Microbial)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Iraq War (2003-11)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mosul (Iraq)</category>
+<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/16/multimedia/16Dewachi-01-tlwf/16Dewachi-01-tlwf-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Ivor Prickett for The New York Times</media:credit>
+<media:description>Al-Khansaa Maternity Hospital in Mosul in 2017, after a repaired section was reopened.</media:description>
+</item>
+<item>
+<title>Demand for Cashmere Has Environmental Consequences</title>
+<link>https://www.nytimes.com/2023/12/16/opinion/holidays-environment-cashmere.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/opinion/holidays-environment-cashmere.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/opinion/holidays-environment-cashmere.html" rel="standout"/>
+<description>Expanding herds of cashmere goats are causing severe damage to grasslands on the Mongolian plateau in Central Asia.</description>
+<dc:creator>Ginger Allington</dc:creator>
+<pubDate>Sat, 16 Dec 2023 12:00:16 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Goats</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Holidays and Special Occasions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Wool and Woolen Goods</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mongolia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Inner Mongolia</category>
+<media:content height="1798" medium="image" url="https://static01.nyt.com/images/2023/12/15/multimedia/15allington-02-mfzq/15allington-02-mfzq-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Gilles Sabrié for The New York Times</media:credit>
+<media:description>Goats are much more destructive than other livestock to grassland ecosystems.</media:description>
+</item>
+<item>
+<title>Supreme Contempt for Women</title>
+<link>https://www.nytimes.com/2023/12/16/opinion/texas-abortion-supreme-court.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/opinion/texas-abortion-supreme-court.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/opinion/texas-abortion-supreme-court.html" rel="standout"/>
+<description>Robed zealots are turning women into felons and harming their health.</description>
+<dc:creator>Maureen Dowd</dc:creator>
+<pubDate>Sat, 16 Dec 2023 12:00:21 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alito, Samuel A Jr</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Halappanavar, Savita</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cox, Kate</category>
+<media:content height="1798" medium="image" url="https://static01.nyt.com/images/2023/12/18/multimedia/16dowd-01-hckv/16dowd-01-hckv-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Clodagh Kilcoyne/Reuters</media:credit>
+<media:description>Savita Halappanavar, who died after being denied an abortion, became a symbol of Ireland’s drive to legalize the procedure in 2018 with a Yes vote.</media:description>
+</item>
+<item>
+<title>It’s Time For U.F.O. Whistleblowers to Show Their Cards</title>
+<link>https://www.nytimes.com/2023/12/16/opinion/ufo-whistleblowers-government.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/opinion/ufo-whistleblowers-government.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/opinion/ufo-whistleblowers-government.html" rel="standout"/>
+<description>Hopefully we are nearing a point of more clarity for the mystery of what’s in the public record.</description>
+<dc:creator>Ross Douthat</dc:creator>
+<pubDate>Sat, 16 Dec 2023 12:00:32 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Unidentified Flying Objects (UFO)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Extraterrestrial Life</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grusch, David</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/17/opinion/16douthaSub/16douthaSub-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Tayfun Coskun/Anadolu Agency, via Getty Images</media:credit>
+</item>
+<item>
+<title>Quirks of Personality</title>
+<link>https://www.nytimes.com/2023/12/16/briefing/quirks-of-personality.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/briefing/quirks-of-personality.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/briefing/quirks-of-personality.html" rel="standout"/>
+<description>A photographer seeks out style that shines off the runway, and the little details that help it stand out.</description>
+<dc:creator>Stella Bugbee</dc:creator>
+<pubDate>Sat, 16 Dec 2023 11:46:23 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cunningham, Bill</category>
+<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/16/multimedia/16themorning-promo/16MORNING-NEWSLETTER-01-bjvz-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Simbarashe Cha for The New York Times</media:credit>
+<media:description>As people rush to shows, a photographer sometimes has only a moment — but that was all it took to capture this exquisite skirt in Paris.</media:description>
+</item>
+<item>
+<title>What Older Song Did You Discover This Year?</title>
+<link>https://www.nytimes.com/2023/12/15/arts/what-older-song-did-you-discover-this-year.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/15/arts/what-older-song-did-you-discover-this-year.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/15/arts/what-older-song-did-you-discover-this-year.html" rel="standout"/>
+<description>We want to know why it resonated with you.</description>
+<dc:creator>Lindsay Zoladz</dc:creator>
+<pubDate>Fri, 15 Dec 2023 18:42:18 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+</item>
+<item>
+<title>Senators Hold Up 43 Biden Diplomatic Nominees as Crises Roil World</title>
+<link>https://www.nytimes.com/2023/12/15/us/politics/senate-state-nominees-diplomats-republicans.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/15/us/politics/senate-state-nominees-diplomats-republicans.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/15/us/politics/senate-state-nominees-diplomats-republicans.html" rel="standout"/>
+<description>The State Department says the monthslong blockade has damaged U.S. national security. Several Republican senators have objected to advancing the slate of nominees.</description>
+<dc:creator>Edward Wong and Michael Crowley</dc:creator>
+<pubDate>Sat, 16 Dec 2023 04:54:41 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Foreign Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Risch, James E</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Rand</category>
+<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/15/multimedia/15dc-diplo-bqvt/15dc-diplo-bqvt-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Doug Mills/The New York Times</media:credit>
+<media:description>Kurt M. Campbell, right, the nominee for the No. 2 position in the State Department, is among those awaiting confirmation.</media:description>
+</item>
+<item>
+<title>Miss Universe Is Latest Target of Nicaragua Government Crackdown</title>
+<link>https://www.nytimes.com/2023/12/16/world/americas/nicaragua-miss-universe.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/world/americas/nicaragua-miss-universe.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/world/americas/nicaragua-miss-universe.html" rel="standout"/>
+<description>Sheynnis Palacios, the first Nicaraguan to win the pageant, became a symbol of resistance. The authoritarian leadership soon came after people close to the competition.</description>
+<dc:creator>James Wagner</dc:creator>
+<pubDate>Sat, 16 Dec 2023 10:02:05 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Beauty Contests</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miss Universe Organization</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murillo, Rosario</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ortega, Daniel</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nicaragua</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheynnis Palacios</category>
+<media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/14/multimedia/00nicaragua-pageant-wqhg/00nicaragua-pageant-wqhg-mediumSquareAt3X.jpg" width="1800"/>
+<media:credit>Marvin Recinos/Agence France-Presse — Getty Images</media:credit>
+<media:description>Sheynnis Palacios of Nicaragua won the Miss Universe pageant last month in El Salvador.</media:description>
+</item>
+<item>
+<title>Mayim Bialik Out as ‘Jeopardy!’ Host</title>
+<link>https://www.nytimes.com/2023/12/16/arts/television/mayim-bialik-jeopardy-host.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/arts/television/mayim-bialik-jeopardy-host.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/arts/television/mayim-bialik-jeopardy-host.html" rel="standout"/>
+<description>The departure of Bialik, who had been absent from the show for months, leaves Ken Jennings, a former champion, as the sole host.</description>
+<dc:creator>Lola Fadulu</dc:creator>
+<pubDate>Sat, 16 Dec 2023 06:55:21 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bialik, Mayim</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jeopardy! (TV Program)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Game Shows</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trebek, Alex</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Big Bang Theory (TV Program)</category>
+<media:content height="1405" medium="image" url="https://static01.nyt.com/images/2023/12/15/multimedia/15xp-jeopardy/15xp-jeopardy-mediumSquareAt3X.jpg" width="1407"/>
+<media:credit>Tyler Golden/CBS Media Ventures</media:credit>
+<media:description>Mayim Bialik was nominated this year for an Emmy for “Outstanding Host for a Game Show.”</media:description>
+</item>
+<item>
+<title>Sheikh Nawaf, Emir of Kuwait, Dies at 86</title>
+<link>https://www.nytimes.com/2023/12/16/world/middleeast/sheikh-nawaf-dead.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/16/world/middleeast/sheikh-nawaf-dead.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/16/world/middleeast/sheikh-nawaf-dead.html" rel="standout"/>
+<description>The sheikh was defense minister when Iraq invaded his tiny but oil-rich country, and became ruler in his 80s.</description>
+<dc:creator>Alan Cowell</dc:creator>
+<pubDate>Sat, 16 Dec 2023 12:10:38 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nawaf Al-Ahmad Al-Jaber Al-Sabah, Sheikh</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuwait</category>
+<media:content height="1600" medium="image" url="https://static01.nyt.com/images/2023/12/16/multimedia/16nawaf-swap-zcwp/16nawaf-swap-zcwp-mediumSquareAt3X.jpg" width="1600"/>
+<media:credit>Stephanie McGehee/Reuters</media:credit>
+<media:description>Sheikh Nawaf al-Ahmad al-Jaber al-Sabah in 2006. “We offer our condolences to the Kuwaiti people, Islamic and Arab nations and the people of the world,” the Kuwaiti royal court said in a statement upon his death.</media:description>
+</item>
+<item>
+<title>A Tiny L.A. Bungalow With the Soul of a Cotswolds Cottage</title>
+<link>https://www.nytimes.com/2023/12/15/realestate/charlie-carver-la-home.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/12/15/realestate/charlie-carver-la-home.html</guid>
+<atom:link href="https://www.nytimes.com/2023/12/15/realestate/charlie-carver-la-home.html" rel="standout"/>
+<description>The actor Charlie Carver bought a 755-square-foot house, beating out developers who wanted to tear it down. Then he needed a designer who shared his eccentric vision.</description>
+<dc:creator>Julie Lasky</dc:creator>
+<pubDate>Fri, 15 Dec 2023 10:01:19 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Interior Design and Furnishings</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Tiny Homes and Micro-Housing</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+</item>
+</channel>
+</rss>
